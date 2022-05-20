@@ -3,7 +3,7 @@ hello, i am from Y2 engineering Science
 
 i am dying from physics
 
-i use c, c++, python
+i am learning c, and used c++, python
 
 byebye
 
